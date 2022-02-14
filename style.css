@@ -16,13 +16,35 @@
 }
 .cat-1,.cat-2,.cat-3{
     padding: 10px 30px;
+    border-radius: 10px;
 }
 .cat-1{
-    background-color: orange;
+    background-color: rgb(179, 119, 10);
 }
 .cat-2{
     background-color:rgb(44, 44, 172);
 }
 .cat-3{
-    background-color:aqua;
+    background-color:rgb(7, 75, 75);
+}
+.catagories h1{
+   color: white;
+}
+.catagories img{
+   width: 100px;
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.Subscribe{
+    height: 300px;
+}
+#Subscribe h6{
+ color: gray;
 }
