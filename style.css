@@ -14,3 +14,15 @@
  padding: 8px 15px;
  cursor: pointer;
 }
+.cat-1,.cat-2,.cat-3{
+    padding: 10px 30px;
+}
+.cat-1{
+    background-color: orange;
+}
+.cat-2{
+    background-color:rgb(44, 44, 172);
+}
+.cat-3{
+    background-color:aqua;
+}
